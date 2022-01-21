@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\ref\BankEncapsulationExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\ref\BankEncapsulationExercise.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BankEncapsulation\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.genruntimeconfig.cache
